@@ -135,17 +135,39 @@ Cette réalisation a permis de mettre en œuvre l'ensemble du processus de déve
 
 ### Galerie du projet
 
-Les vues 3D de la carte conçue sous KiCad ainsi que les photographies des différentes étapes de fabrication et d'intégration seront présentées dans le dossier [images/](images/).
+Les images sont organisées en deux répertoires afin de distinguer clairement la conception numérique de la réalisation physique.
+
+#### Vues 3D de la conception sous KiCad
+
+| Vue | Aperçu |
+|---|---|
+| Vue 3D 1 | ![Vue 3D de la carte 1](3D_DESIGN/IMG-20261109-WA0029.jpg) |
+| Vue 3D 2 | ![Vue 3D de la carte 2](3D_DESIGN/IMG-20261109-WA0030.jpg) |
+| Vue 3D 3 | ![Vue 3D de la carte 3](3D_DESIGN/IMG-20261109-WA0031.jpg) |
+| Vue 3D 4 | ![Vue 3D de la carte 4](3D_DESIGN/IMG-20261109-WA0038.jpg) |
+| Vue 3D 5 | ![Vue 3D de la carte 5](3D_DESIGN/IMG-20261109-WA0039.jpg) |
+
+#### Photographies de la réalisation
+
+| Vue | Aperçu |
+|---|---|
+| Réalisation 1 | ![Réalisation 1](REALIZATION/IMG-20260729-WA0025.jpg) |
+| Réalisation 2 | ![Réalisation 2](REALIZATION/IMG-20260729-WA0028.jpg) |
+| Réalisation 3 | ![Réalisation 3](REALIZATION/IMG-20260729-WA0029.jpg) |
+| Réalisation 4 | ![Réalisation 4](REALIZATION/IMG-20260729-WA0031.jpg) |
+| Réalisation 5 | ![Réalisation 5](REALIZATION/IMG-20260729-WA0048.jpg) |
+| Réalisation 6 | ![Réalisation 6](REALIZATION/IMG-20260729-WA0055.jpg) |
+| Réalisation 7 | ![Réalisation 7](REALIZATION/IMG-20260729-WA0081.jpg) |
 
 ### Documents techniques
 
-Les documents techniques seront regroupés dans le dossier [documents/](documents/).
+Les documents techniques du projet sont regroupés dans le répertoire [`documents/`](documents/) :
 
 | Document | Description |
 |---|---|
-| Côté composants (PDF) | Implantation des composants électroniques |
-| Typon (PDF) | Tracé utilisé pour la fabrication photochimique |
-| Schéma électronique (PDF) | Schéma électrique de la carte |
+| [Côté composants (PDF)](documents/C%C3%94T%C3%89%20COMPOSANTS%20Hotte%20%C3%A0%20flux%20laminaire%20contr%C3%B4l%C3%A9e%20par%20ESP32.pdf) | Implantation des composants électroniques |
+| [Typon (PDF)](documents/TYPON%20Hotte%20%C3%A0%20flux%20laminaire%20contr%C3%B4l%C3%A9e%20par%20ESP32.pdf) | Tracé utilisé pour la fabrication photochimique |
+| [Schéma électronique (PDF)](documents/SCHEMATIC%20Hotte%20%C3%A0%20flux%20laminaire%20contr%C3%B4l%C3%A9e%20par%20ESP32.pdf) | Schéma électronique de la carte |
 
 ### État de réalisation
 
@@ -257,17 +279,39 @@ This process provided practical experience in the complete PCB development workf
 
 ### Project gallery
 
-The KiCad 3D board views, manufacturing photographs and prototype integration pictures will be presented in the [images/](images/) directory.
+The project images are organized into two directories to clearly distinguish the digital design from the physical implementation.
+
+#### KiCad 3D design views
+
+| View | Preview |
+|---|---|
+| 3D view 1 | ![PCB 3D view 1](3D_DESIGN/IMG-20261109-WA0029.jpg) |
+| 3D view 2 | ![PCB 3D view 2](3D_DESIGN/IMG-20261109-WA0030.jpg) |
+| 3D view 3 | ![PCB 3D view 3](3D_DESIGN/IMG-20261109-WA0031.jpg) |
+| 3D view 4 | ![PCB 3D view 4](3D_DESIGN/IMG-20261109-WA0038.jpg) |
+| 3D view 5 | ![PCB 3D view 5](3D_DESIGN/IMG-20261109-WA0039.jpg) |
+
+#### Project implementation photographs
+
+| View | Preview |
+|---|---|
+| Implementation 1 | ![Implementation 1](REALIZATION/IMG-20260729-WA0025.jpg) |
+| Implementation 2 | ![Implementation 2](REALIZATION/IMG-20260729-WA0028.jpg) |
+| Implementation 3 | ![Implementation 3](REALIZATION/IMG-20260729-WA0029.jpg) |
+| Implementation 4 | ![Implementation 4](REALIZATION/IMG-20260729-WA0031.jpg) |
+| Implementation 5 | ![Implementation 5](REALIZATION/IMG-20260729-WA0048.jpg) |
+| Implementation 6 | ![Implementation 6](REALIZATION/IMG-20260729-WA0055.jpg) |
+| Implementation 7 | ![Implementation 7](REALIZATION/IMG-20260729-WA0081.jpg) |
 
 ### Technical documentation
 
-Technical documents will be stored in the [documents/](documents/) directory.
+The project's technical files are stored in the [`documents/`](documents/) directory:
 
 | Document | Description |
 |---|---|
-| Component layout (PDF) | Electronic component placement |
-| PCB artwork (PDF) | Artwork used for photochemical manufacturing |
-| Electronic schematic (PDF) | Electrical schematic of the board |
+| [Component layout (PDF)](documents/C%C3%94T%C3%89%20COMPOSANTS%20Hotte%20%C3%A0%20flux%20laminaire%20contr%C3%B4l%C3%A9e%20par%20ESP32.pdf) | Electronic component placement |
+| [PCB artwork (PDF)](documents/TYPON%20Hotte%20%C3%A0%20flux%20laminaire%20contr%C3%B4l%C3%A9e%20par%20ESP32.pdf) | Artwork used for photochemical manufacturing |
+| [Electronic schematic (PDF)](documents/SCHEMATIC%20Hotte%20%C3%A0%20flux%20laminaire%20contr%C3%B4l%C3%A9e%20par%20ESP32.pdf) | Electronic schematic of the board |
 
 ### Project status
 
